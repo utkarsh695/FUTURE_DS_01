@@ -156,3 +156,7 @@ Dashboard Preview:
 Show what the dashboard looks like:
 ![Alt text](https://github.com/utkarsh695/Uber-Dashboard/blob/main/Snapshot.uber.png)
 [Dashboard](https://github.com/utkarsh695/Uber-Dashboard/blob/main/Snapshot.uber.png)
+
+NEXT PAGE-
+![Alt text](https://github.com/utkarsh695/Uber-Dashboard/blob/main/Snapshot.uber.png)
+[Dashboard](https://github.com/utkarsh695/Uber-Dashboard/blob/main/Snapshot.uber.png)
