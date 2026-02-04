@@ -154,9 +154,9 @@ Developed an interactive Power BI dashboard analyzing online retail sales data u
 
 Dashboard Preview:
 Show what the dashboard looks like:
-![Alt text](https://github.com/utkarsh695/Uber-Dashboard/blob/main/Snapshot.uber.png)
-[Dashboard](https://github.com/utkarsh695/Uber-Dashboard/blob/main/Snapshot.uber.png)
+![Alt text](https://github.com/utkarsh695/FUTURE_DS_01/blob/main/Business%20Sales%20Performance%20Analytics.png)
+[Dashboard](https://github.com/utkarsh695/FUTURE_DS_01/blob/main/Business%20Sales%20Performance%20Analytics.png)
 
 NEXT PAGE-
-![Alt text](https://github.com/utkarsh695/Uber-Dashboard/blob/main/Snapshot.uber.png)
-[Dashboard](https://github.com/utkarsh695/Uber-Dashboard/blob/main/Snapshot.uber.png)
+![Alt text](https://github.com/utkarsh695/FUTURE_DS_01/blob/main/retail.png)
+[Dashboard](https://github.com/utkarsh695/FUTURE_DS_01/blob/main/retail.png)
